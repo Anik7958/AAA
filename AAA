@@ -531,3 +531,11 @@ http://wesal.noorlive.com/wesal/wesal1/chunklist_w1700957645.m3u8
 http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_majd_sa_tv.png" group-title="Arab Sat",Al Majd
 http://199.167.151.237:1935/live/sp15_36.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-ID="playboy" tvg-name="playboy" tvg-logo="https://i.ibb.co/x6qB0ZQ/IMG-20210103-025636.png" group-title="adult",PlayboyTVEurope
+
+http://212.42.193.122:8888/play/a00p/index.m3u8
+
