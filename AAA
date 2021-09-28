@@ -4,6 +4,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="News",ATN News
 http://babutv.aliflailabd.com:8989/atn-news/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="News",ATN News 2
+https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="News",Channel 24
 http://babutv.aliflailabd.com:8989/channel24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="News",DBC News
@@ -26,9 +28,9 @@ http://babutv.aliflailabd.com:8989/bbc-world/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi",Asian TV 
-http://babutv.aliflailabd.com:8989/asiantv/index.m3u8 
+http://bdixtv.live:8080/AsianTV/tracks-v1a1/mono.m3u8?token=0bf9d6dc0f45e82680208f636dcfbb67e3ab557b-bb4083e8233bdaaee5550b4920daff4f-1632861141-1632850341
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi",ATN Bangla
-http://babutv.aliflailabd.com:8989/atn-bangla/index.m3u8
+http://bdixtv.live:8080/ATN-Bangla/tracks-v1a1/mono.m3u8?token=3a0a8be641bf5b3e76e7548baa6caf11ece63bdf-8627c387a408e6b35c1e195a08e431cf-1632860991-1632850191
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangladeshi",Bangla TV
 http://babutv.aliflailabd.com:8989/bangla-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangladeshi",Banglavision
